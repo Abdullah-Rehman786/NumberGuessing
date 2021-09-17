@@ -1,3 +1,3 @@
-https://www.codecademy.com/learn/learn-c-sharp/modules/learn-csharp-logic-conditionals/cheatsheet
+#NumberGuessing
+Description: C# console app that generates a random number and prompts the user to guess until they answer correctly
 
-https://www.codecademy.com/learn/learn-c-sharp Inheritance/ Classes and objects
